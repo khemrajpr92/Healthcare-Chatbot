@@ -1,3 +1,7 @@
+
+
+https://github.com/khemrajpr92/Healthcare-Chatbot/assets/123429589/bdc21c23-e4e4-455f-863e-9bf50c2476d1
+
 ![chat_bot py - healthcare-chatbot-master - Visual Studio Code  Administrator  4_17_2024 6_58_59 PM](https://github.com/khemrajpr92/Healthcare-Chatbot/assets/123429589/e57cf47c-699e-414d-8dc2-b42ef517176b)
 ![chat_bot py - healthcare-chatbot-master - Visual Studio Code  Administrator  4_17_2024 6_58_54 PM](https://github.com/khemrajpr92/Healthcare-Chatbot/assets/123429589/f6c456bf-c510-45f1-938e-784cf7a13be9)
 ![chat_bot py - healthcare-chatbot-master - Visual Studio Code  Administrator  4_17_2024 6_58_42 PM](https://github.com/khemrajpr92/Healthcare-Chatbot/assets/123429589/96d0a942-8724-453c-9649-610ff977dad4)
